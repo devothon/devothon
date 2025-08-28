@@ -5,7 +5,7 @@
 </p>
 
 <div align="left">
-  🎓 Estudante de <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI CTTI</strong><br>
+  🎓 Formado em <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI CTTI</strong><br>
   💡 Apaixonado por tecnologia<br>
   🚀 Sempre em busca de novos conhecimentos e aperfeiçoamento profissional
 </div>

@@ -5,7 +5,7 @@
 </p>
 
 <div align="left">
-  🎓 Formado em <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI CTTI</strong><br>
+  🎓 Técnico em <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong>SENAI CTTI</strong><br>
   💡 Apaixonado por tecnologia<br>
   🚀 Sempre em busca de novos conhecimentos e aperfeiçoamento profissional
 </div>

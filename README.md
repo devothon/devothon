@@ -54,8 +54,8 @@
 
 ### 📫 Contato:
 
-> Ainda não tenho LinkedIn, mas você pode acompanhar meus projetos aqui no GitHub!  
-> Em breve trarei novidades com mais projetos e repositórios públicos!
+- 📧 E-mail: [othonvitor1201@gmail.com](mailto:othonvitor1201@gmail.com)  
+- 💼 LinkedIn: [www.linkedin.com/in/othon-braga-b69003381](https://www.linkedin.com/in/othon-braga-b69003381)  
 
 ---
 

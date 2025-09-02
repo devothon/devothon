@@ -55,7 +55,7 @@
 ### 📫 Contato:
 
 - 📧 E-mail: [othonvitor1201@gmail.com](mailto:othonvitor1201@gmail.com)  
-- 💼 LinkedIn: [www.linkedin.com/in/othon-braga-b69003381](https://www.linkedin.com/in/othon-braga-b69003381)  
+- 🌐 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othon-braga-b69003381)    
 
 ---
 

@@ -19,7 +19,6 @@
 - 📊 **Análise de Dados** — SENAI  
 - ⚛️ **Física** — UEMG (segundo curso)
 
-Durante o Ensino Médio, conquistei medalhas em olimpíadas como a **OBMEP** e a **OBA**, experiências que fortaleceram meu raciocínio lógico, pensamento analítico e interesse por ciências exatas.
 
 ---
 

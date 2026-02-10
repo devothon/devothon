@@ -44,13 +44,6 @@
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devothon&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devothon&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ### 🌱 Sobre mim
 - 📚 Aprofundando estudos em **Java + Spring Framework**
 - 🗄️ Foco em **bancos de dados relacionais e não relacionais**

@@ -16,8 +16,8 @@
 ### 🎓 Formação e Estudos Atuais
 - 🎓 Técnico em **Análise e Desenvolvimento de Sistemas** — SENAI CTTI  
 - 💻 **Ciência da Computação** — Dom Helder  
-- 📊 **Análise de Dados** — SENAI  
-- ⚛️ **Física** — UEMG (segundo curso)
+- 📊 **Ciência de Dados** — Faculdade SENAI  
+
 
 
 ---

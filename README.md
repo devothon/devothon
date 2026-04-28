@@ -13,16 +13,27 @@
 
 ---
 
+
 ### 🎓 Formação e Estudos Atuais
 - 🎓 Técnico em **Análise e Desenvolvimento de Sistemas** — SENAI CTTI  
 - 💻 **Ciência da Computação** — Dom Helder  
 - 📊 **Ciência de Dados** — Faculdade SENAI  
 
-
-
 ---
 
+
 ### 🧠 Tecnologias que estudo e utilizo
+
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=devothon&show_icons=true&theme=tokyonight" 
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devothon&layout=compact&theme=tokyonight" 
+  />
+
 
 #### 💻 Linguagens de Programação
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -44,6 +55,7 @@
 
 ---
 
+
 ### 🌱 Sobre mim
 - 📚 Aprofundando estudos em **Java + Spring Framework**
 - 🗄️ Foco em **bancos de dados relacionais e não relacionais**
@@ -61,7 +73,7 @@ Atualmente, estou aberto a **oportunidades de estágio**, desafios em TI e conex
 ---
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N1azJ4dWUxb24xemp2bzJ3aGRyczhnMndqeGlyZHQ3a3JsczZyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FrqJqCbqr7YOF2M4QS/giphy.gif" alt="Othon Code Racer - Senna Style" width="150" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N1azJ4dWUxb24xemp2bzJ3aGRyczhnMndqeGlyZHQ3a3JsczZyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FrqJqCbqr7YOF2M4QS/giphy.gif" width="150" />
 </p>
 
 <p align="center">
